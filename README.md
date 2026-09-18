@@ -6,7 +6,7 @@ AI can write SQL for you. That makes knowing SQL *more* important, not less. Whe
 
 ## Quick Start
 
-1. Go to [wsamuelw.github.io/sql-for-everyone](https://wsamuelw.github.io/sql-for-everyone/)
+1. Go to [47096.github.io/sql-for-everyone](https://47096.github.io/sql-for-everyone/)
 2. No server, no installation, no accounts
 3. Start with the Welcome lesson
 
@@ -105,8 +105,9 @@ LIMIT 10;
 
 ```
 sql-for-everyone/
-├── index.html                        # The entire course (single file, ~2500 lines)
+├── index.html                        # The entire course (single file)
 ├── README.md
+├── LICENSE
 └── .github/workflows/deploy.yml      # GitHub Pages deployment
 ```
 
